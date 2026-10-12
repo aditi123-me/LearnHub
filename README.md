@@ -1,2 +1,11 @@
-# LearnHub
-Explore newly developed LearnHub! Made for students for the students! This project mainly focuses providing study materials . In near future I plan to develop  it more by adding new features. Stay tuned! 
+
+  # Learning Management System Design
+
+  This is a code bundle for Learning Management System Design. The original project is available at https://www.figma.com/design/RLspIei06dMWmLFbGzqPZ0/Learning-Management-System-Design.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
